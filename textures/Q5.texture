@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Q5",
+  "identifier": "texture:2759-06109aaf-0479-466d-958b-47bddc6d2b7a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "026277aef959fa1ad0290a027b803f1a",
+  "assetLocator": "textures/Q5.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 585,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "026277aef959fa1ad0290a027b803f1a",
+      "colorCount": 3235,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 1.7726254392634313,
+      "pixelsHigh": 585,
+      "pixelsWide": 1024
+    }
+  ]
+}

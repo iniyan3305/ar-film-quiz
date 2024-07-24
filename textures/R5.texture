@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "R5",
+  "identifier": "texture:4927-06109aaf-0479-466d-958b-47bddc6d2b7a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "a39876bf5d6fe1602048007ee99ff263",
+  "assetLocator": "textures/R5.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 98,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 437,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "a39876bf5d6fe1602048007ee99ff263",
+      "colorCount": 324,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.0134650607880507,
+      "pixelsHigh": 98,
+      "pixelsWide": 437
+    }
+  ]
+}

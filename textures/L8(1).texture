@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "L8(1)",
+  "identifier": "texture:4173-06109aaf-0479-466d-958b-47bddc6d2b7a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "7271fa9e87b8fe35cc5806b1f7484428",
+  "assetLocator": "textures/L8(1).png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 101,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 436,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "7271fa9e87b8fe35cc5806b1f7484428",
+      "colorCount": 331,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.8270665848495777,
+      "pixelsHigh": 101,
+      "pixelsWide": 436
+    }
+  ]
+}

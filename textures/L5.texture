@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "L5",
+  "identifier": "texture:4145-06109aaf-0479-466d-958b-47bddc6d2b7a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "878b3c2a4d50988056d2efec3c4c03aa",
+  "assetLocator": "textures/L5.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 98,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 430,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "878b3c2a4d50988056d2efec3c4c03aa",
+      "colorCount": 296,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.828693245555207,
+      "pixelsHigh": 98,
+      "pixelsWide": 430
+    }
+  ]
+}

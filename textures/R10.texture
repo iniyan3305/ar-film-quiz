@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "R10",
+  "identifier": "texture:4947-06109aaf-0479-466d-958b-47bddc6d2b7a",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "ff2aec78bf2c9504fa5c3e9a23b9cf51",
+  "assetLocator": "textures/R10.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 99,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 436,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "ff2aec78bf2c9504fa5c3e9a23b9cf51",
+      "colorCount": 313,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.0227704206344534,
+      "pixelsHigh": 99,
+      "pixelsWide": 436
+    }
+  ]
+}
